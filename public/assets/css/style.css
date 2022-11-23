@@ -1,0 +1,7 @@
+.text-default-color{color: #ff4800}
+.bg-default-color{background-color: #ff4800}
+.bg-default-color:hover{background-color: #d93d00}
+.custom-nav-link{font-weight: bold}
+.custom-nav-link:hover{background-color: #ff4800; color: white}
+.banner-section{background-image: url("../img/header.jpg"); height: 500px}
+.card-form{padding-top: 80px; padding-left: 40px; padding-right: 40px}
